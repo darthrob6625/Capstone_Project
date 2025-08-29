@@ -22,7 +22,3 @@ The objective of this Capstone Project is to develop a high-performance predicti
 
 ### Data Source
 CalPERS has provided data exports with all personal identifiers removed and appropriately masked. The analysis will utilize data from 2020 through 2024 to identify the optimal range for model performance. These datasets initially comprise 20-25 features and contain more than four million records. 
-
-## Project Overview
-
-
