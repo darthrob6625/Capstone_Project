@@ -11,7 +11,7 @@ I have been employed by the State of California since May 2009, serving in senio
 
 ## 🖊 Project Overview
 
-### Background
+### 🔍 Background
 CalPERS is the largest pension fund for public sector employees in the United States, managing net assets of approximately $506.6 billion. CalPERS administers retirement benefits to 2.3 million members and beneficiaries and provides health benefits to 1.5 million members and their dependents.
 
 ### 🩺 Open Enrollment
