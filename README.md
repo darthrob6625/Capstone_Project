@@ -1,5 +1,9 @@
 # Predicting California Open Enrollment
 
+### Notebooks
+- Jupyter Notebook 1 of 2 : Data Preparation & Analysis
+- Jupyter Notebook 2 of 2 : Classification Modeling 
+
 ## Project Contributor
 This project was prepared by [Robert Meza](https://www.linkedin.com/in/robmeza/) as the Capstone Project for the Machine Learning and Artificial Intelligence Professional Certificate Program at the University of California, Berkeley, March 2025 cohort.
 
@@ -17,4 +21,8 @@ As part of its annual Open Enrollment period, members may modify their CalPERS h
 The objective of this Capstone Project is to develop a high-performance predictive model to determine a CalPERS member’s health plan selection during the Open Enrollment period by leveraging a range of relevant features. Key features under consideration include geographic location, age, number of dependents, and years of service. Because members are limited to a predefined set of health plans within California, machine learning classification techniques will serve as the initial methodological framework.
 
 ### Data Source
-CalPERS has provided data exports with all personal identifiers removed and appropriately masked. The analysis will utilize data from 2020 through 2024 to identify the optimal range for model performance. These datasets comprise 20-25 features and contain more than four million records. 
+CalPERS has provided data exports with all personal identifiers removed and appropriately masked. The analysis will utilize data from 2020 through 2024 to identify the optimal range for model performance. These datasets initially comprise 20-25 features and contain more than four million records. 
+
+## Project Overview
+
+
