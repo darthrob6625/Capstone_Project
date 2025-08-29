@@ -14,7 +14,7 @@ I have been employed by the State of California since May 2009, serving in senio
 ### 🔍 Background
 CalPERS is the largest pension fund for public sector employees in the United States, managing net assets of approximately $506.6 billion. CalPERS administers retirement benefits to 2.3 million members and beneficiaries and provides health benefits to 1.5 million members and their dependents.
 
-### 🩺 Open Enrollment
+### 🩹 Open Enrollment
 As part of its annual Open Enrollment period, members may modify their CalPERS health coverage. These modifications include selecting a different health plan, adding or removing dependents, canceling existing coverage, and enrolling in a CalPERS health plan as a new member.
 
 ### 📑 Objective 
