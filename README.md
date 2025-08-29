@@ -18,7 +18,7 @@ CalPERS is the largest pension fund for public sector employees in the United St
 As part of its annual Open Enrollment period, members may modify their CalPERS health coverage. These modifications include selecting a different health plan, adding or removing dependents, canceling existing coverage, and enrolling in a CalPERS health plan as a new member.
 
 ### Objective 
-The objective of this Capstone Project is to develop a high-performance predictive model to determine a CalPERS member’s health plan selection during the Open Enrollment period by leveraging a range of relevant features. Key features under consideration include geographic location, age, number of dependents, and years of service. Because members are limited to a predefined set of health plans within California, machine learning classification techniques will serve as the initial methodological framework.
+The objective of this Capstone Project is to develop a high-performance predictive model to determine a CalPERS member’s health plan selection during the Open Enrollment period by leveraging a range of relevant features. Key features under consideration include geographic location, age, number of dependents, etc. Because members are limited to a predefined set of health plans within California, machine learning classification techniques will serve as the initial methodological framework.
 
 ### Data Source
 CalPERS has provided data exports with all personal identifiers removed and appropriately masked. The analysis will utilize data from 2020 through 2024 to identify the optimal range for model performance. These datasets initially comprise 20-25 features and contain more than four million records. 
