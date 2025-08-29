@@ -1,7 +1,7 @@
 # Predicting California Open Enrollment
 
 ### Notebooks
-- Jupyter Notebook 1 of 2 : Data Preparation & Analysis
+- [Jupyter Notebook 1 of 2 : Data Preparation & Analysis](capstone_1_of_2.ipynb)
 - Jupyter Notebook 2 of 2 : Classification Modeling 
 
 ## Project Contributor
