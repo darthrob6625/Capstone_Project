@@ -23,7 +23,12 @@ The objective of this Capstone Project is to develop a high-performance predicti
 ### Data Source
 CalPERS has provided data exports with all personal identifiers removed and properly masked. The analysis will use data from 2020 through 2024 to determine the optimal range for model performance. These datasets contain 20–25 features and include more than four million records. Due to the 25 MB file upload limit, some preliminary cleaning and consolidation were performed prior to upload.
 
-##  🧭 Project Workflow
+### Data Assumptions
+Due to the file upload size restriction, the dataset was reduced to a manageable subset using the following filters and assumptions, derived from the original 4-million-record dataset.
+- Each CalPERS member in this dataset is an active employee of the State of California
+- Each CalPERS member in this dataset is not retired
+  
+##  📋 Project Workflow
 1. Data check
 2. Exploratory Data Analysis (EDA)
 3. Preprocessing
@@ -31,6 +36,12 @@ CalPERS has provided data exports with all personal identifiers removed and prop
 5. Classification Modeling - Logistic Regression, Decision Tree, KNN, and … 
 7. Results & Analysis
    
-## 📍Key Findings
+## 📌 Key Findings
 ...
 
+## 🎖 Future Work
+- Expand the dataset by incorporating an additional 10 years of historical data
+- Refine feature selection by removing currently high-performing features in order to evaluate alternative predictors
+- Engineer new features that may yield improved model performance
+- Address class imbalance by applying techniques to reduce the effects of unbalanced data distributions
+- Develop a web application to operationalize and showcase the predictive models
