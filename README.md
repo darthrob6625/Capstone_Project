@@ -11,19 +11,19 @@ I have been employed by the State of California since May 2009, serving in senio
 
 ## 📘 Project Overview
 
-### 🔹Background
+### Background
 CalPERS is the largest pension fund for public sector employees in the United States, managing net assets of approximately $506.6 billion. CalPERS administers retirement benefits to 2.3 million members and beneficiaries and provides health benefits to 1.5 million members and their dependents.
 
-### 🔹Open Enrollment
+### Open Enrollment
 As part of its annual Open Enrollment period, members may modify their CalPERS health coverage. These modifications include selecting a different health plan, adding or removing dependents, canceling existing coverage, and enrolling in a CalPERS health plan as a new member.
 
-### 🔹Objective 
+### Objective 
 The objective of this Capstone Project is to develop a high-performance predictive model to determine a CalPERS member’s health plan selection during the Open Enrollment period by leveraging a range of relevant features. Key features under consideration include geographic location, age, number of dependents, etc. Because members are limited to a predefined set of health plans within California, machine learning classification techniques will serve as the initial methodological framework.
 
-### 🔹Data Source
+### Data Source
 CalPERS has provided data exports with all personal identifiers removed and properly masked. The analysis will use data from 2020 through 2024 to determine the optimal range for model performance. These datasets contain 20–25 features and include more than four million records. Due to the 25 MB file upload limit, some preliminary cleaning and consolidation were performed prior to upload.
 
-### 🔹Data Assumptions
+### Data Assumptions
 Due to the file upload size restriction, the dataset was reduced to a manageable subset using the following filters and assumptions, derived from the original 4-million-record dataset.
 - Each CalPERS member in this dataset is an active employee of the State of California
 - Each CalPERS member in this dataset is not retired
