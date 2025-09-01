@@ -27,6 +27,7 @@ CalPERS has provided data exports with all personal identifiers removed and prop
 Due to the file upload size restriction, the dataset was reduced to a manageable subset using the following filters and assumptions, derived from the original 4-million-record dataset.
 - Each CalPERS member in this dataset is an active employee of the State of California
 - Each CalPERS member in this dataset is not retired
+- Dataset reduced from 4M to 1M, five years of data from 2020-24, 200K samples per year
 
 ## ↗️ Expected Results
 
