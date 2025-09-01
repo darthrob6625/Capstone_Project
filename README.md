@@ -37,7 +37,8 @@ Due to the file upload size restriction, the dataset was reduced to a manageable
 7. Results & Analysis
    
 ## 📌 Key Findings
-...
+✅ ...
+⚠️ ...
 
 ## 🎖 Future Work
 - Expand the dataset by incorporating an additional 10 years of historical data
