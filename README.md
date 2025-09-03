@@ -24,7 +24,7 @@ As part of its annual Open Enrollment period, members may modify their CalPERS h
 The objective of this Capstone Project is to develop a high-performance predictive model to determine a CalPERS member’s health plan selection during the Open Enrollment period by leveraging a range of relevant features. Key features under consideration include geographic location, age, number of dependents, etc. Because members are limited to a predefined set of health plans within California, machine learning classification techniques will serve as the initial methodological framework.
 
 ### Data Source
-CalPERS has provided data exports with all personal identifiers removed and properly masked. The analysis will use data from 2020 through 2024 to determine the optimal range for model performance. These datasets contain 20–25 features and include more than four million records. Due to the 25 MB file upload limit, <ins>some preliminary cleaning and consolidation were performed prior to upload.</ins>
+CalPERS has provided data exports with all personal identifiers removed and properly masked. The analysis will use data from 2020 through 2024 to determine the optimal range for model performance. These datasets contain 20–25 features and include more than four million records. Due to the 25 MB file upload limit, <ins>some preliminary cleaning and consolidation were performed prior to upload.</ins> The initial dataset of 4 million records (2020–2024) was reduced to a sample of 400,000 records in order to meet the 25 MB file upload limit and to improve CPU performance for modeling.
 
 ## ↗️ Expected Results
 
