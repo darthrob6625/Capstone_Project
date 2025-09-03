@@ -9,6 +9,9 @@ This project was prepared by  [Robert Meza](https://www.linkedin.com/in/robmeza/
 
 I have been employed by the State of California since May 2009, serving in senior technical and leadership roles. I hold a Bachelor of Science in Computer Science (2008) and a Master of Business Administration (2014) from California State University, Sacramento. From 2009 to 2016, I held a senior technical position with the California Department of Technology. Since July 2016, I have served primarily as a Senior Information Technology Manager at the California Public Employees’ Retirement System (CalPERS).
 
+## 🚨 Disclaimer
+The analysis and findings presented in this project are solely my own work and do not represent, reflect, or speak on behalf of CalPERS or any other organization. This project is conducted strictly as an academic exercise for educational purposes. Some of the underlying data used in this analysis may have been modified, reduced, or otherwise transformed for the purposes of research and demonstration.
+
 ## 📘 Project Overview
 
 ### Background
