@@ -41,7 +41,7 @@ Informed by the evaluation of the aforementioned classification models and preli
 2. Exploratory Data Analysis (EDA)
 3. Preprocessing
 4. Feature Selection
-5. Classification Modeling - Logistic Regression, Decision Tree, KNN, and … 
+5. Classification Modeling 
 7. Results & Analysis
    
 ## 📌 Key Findings
