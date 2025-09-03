@@ -28,7 +28,7 @@ CalPERS provided data exports with all personal identifiers removed and properly
 
 ## ↗️ Expected Results
 
-Informed by the evaluation of the aforementioned classification models and preliminary feedback from office hours sessions and my assigned advisor, the objective of this project is to produce a predictive model with an accuracy exceeding 75 percent. Initial training and testing of a decision tree model yielded strong results, with optimal performance achieved in configurations containing 10–20 leaves. The ultimate goal is to develop a model capable of achieving accuracy rates approaching 90 percent while incorporating strategies to mitigate overfitting. This model is intended to accurately predict a member’s health plan selection with a high degree of reliability, consistent with the outlined methodology.
+The ultimate goal is to develop a model capable of achieving accuracy rates approaching 90 percent while incorporating strategies to mitigate overfitting. This model is intended to accurately predict a member’s health plan selection with a high degree of reliability, consistent with the outlined methodology.
 
 ##  📋 Project Workflow
 1. Data check
