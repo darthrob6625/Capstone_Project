@@ -2,7 +2,8 @@
 
 ### 📖 Notebooks
 - [Jupyter Notebook 1 of 2 : Data Preparation & Analysis](capstone_1_of_2.ipynb)
-- [Jupyter Notebook 2 of 2 : Classification Modeling](capstone_2_of_2.ipynb) 
+- [Jupyter Notebook 2 of 2 : Classification Modeling](capstone_2_of_2.ipynb)
+- [Jupyter Notebook Bonus : Classification Modeling Without Strong Feature](capstone_bonus.ipynb) 
 
 ## 🙋🏻‍♂️ Project Contributor
 This project was prepared by  [Robert Meza](https://www.linkedin.com/in/robmeza/) as the Capstone Project for the Machine Learning and Artificial Intelligence Professional Certificate Program at the University of California, Berkeley, March 2025 cohort.
