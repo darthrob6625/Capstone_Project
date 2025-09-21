@@ -48,8 +48,8 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 | Support Vector Machines | 46.2% | 79.3% | +33.1% |
 
 ## 📌 Findings
-
-
+✅ For LR, there was a significant improvement of +20% in model performance, resulting in an accuracy of 68%.
+✅ The KNN model initially achieved a perfect score due to a strong feature. However, limiting the depth yielded a more realistic accuracy of around 70%. This suggests that the data is most likely unbalanced. 
   
 ## 🎖 Future Work
 - Expand the dataset by incorporating an additional 10 years of historical data
