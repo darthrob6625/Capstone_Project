@@ -44,7 +44,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 | --- | --- | --- | --- |
 | Logistic Regression | 46.2% | 68.0% | +21.8% | 
 | K-Nearest Neighbors | 90.2%  | 71.7% | -18.5% | 
-| Decision Trees | 100% | 99.5% | -00.5% |
+| Decision Trees | 100% | 99.5% | -0.5% |
 | Support Vector Machines | 46.2% | 79.3 | +33.1% |
   
 ## 🎖 Future Work
