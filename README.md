@@ -38,7 +38,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 5. Classification Modeling 
 7. Results & Analysis
    
-## 📌 Classification Models
+## 🧮 Classification Models
 
 | Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | % Diff | 
 | --- | --- | --- | --- |
@@ -46,6 +46,10 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 | K-Nearest Neighbors | 90.2%  | 71.7% | -18.5% | 
 | Decision Trees | 100% | 99.5% | -0.5% |
 | Support Vector Machines | 46.2% | 79.3% | +33.1% |
+
+## 📌 Findings
+
+
   
 ## 🎖 Future Work
 - Expand the dataset by incorporating an additional 10 years of historical data
