@@ -51,7 +51,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 - ✅ For LR, there was a significant improvement of +20% in model performance, resulting in an accuracy of 68%.
 - ✅ The KNN model initially achieved a high score due to a strong feature. However, limiting the neighbor number yielded a more realistic accuracy of around 70%. This suggests that the data is most likely unbalanced.
 - ✅ The DT model initially achieved a perfect score due to a strong feature. This suggests that the data is most likely unbalanced.
-- ✅
+- ✅ For SVM, there was a significant improvement of +30% in model performance, resulting in an accuracy of about 80%.
   
 ## 🎖 Future Work
 - Expand the dataset by incorporating an additional 10 years of historical data
