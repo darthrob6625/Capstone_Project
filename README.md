@@ -57,3 +57,12 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 - Engineer new features that may yield improved model performance
 - Address class imbalance by applying techniques to reduce the effects of unbalanced data distributions
 - Develop a web application to operationalize and showcase the predictive models
+
+## 🧮 Bonus - Classification Models with Removal of Strong Feature Correlation Heatmap Score (0.81)
+
+| Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | % Diff | 
+| --- | --- | --- | --- |
+| Logistic Regression | 46.6% | 68.4% | +21.8% | 
+| K-Nearest Neighbors | 56.6%  | 67.2% | +10.6% | 
+| Decision Trees | 53.8% | 53.8% | 50.7% | -3.1% |
+| Support Vector Machines | 46.2% | 68.5% | +22.3 |
