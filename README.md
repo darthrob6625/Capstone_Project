@@ -41,7 +41,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 ## 📌 Classification Models
 
 | Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | Improvement % |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Logistic Regression | 46.6% | 68.1% | +21.5% |
 | K-Nearest Neighbors | 89.9%  | 89.0% | 0% | 
 | Decision Trees | 88.1% | 88.46% | 0 |
