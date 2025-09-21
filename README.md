@@ -38,12 +38,18 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 5. Classification Modeling 
 7. Results & Analysis
    
-## 📌 Key Findings
-- ✅ In the logistic regression model, the initial accuracy prior to feature scaling was 46.6%. After applying scaling, model performance improved significantly, reaching 68.6%. Through subsequent hyperparameter tuning, the model achieved an accuracy of ## (pending)%, reflecting a substantial gain in predictive capability.
-- ✅ For decision tree modeling, even without parameter tuning, the model achieved very high accuracy. This outcome suggests that certain features, particularly dependent count and monthly premium amount, are strong predictors of the target classification. In future iterations, I plan to explore removing one of these dominant features to assess whether the model produces a more realistic measure of accuracy.
-- ✅ KNN ...
-- ✅ Random Forest ...
-- ✅ The dataset is moderately unbalanced.
+## 📌 Classification Models
+
+| Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | Improvement % |
+| --- | --- | --- |
+| Logistic Regression | 46.6% | 68.1% | +21.5% |
+| K-Nearest Neighbors | 89.9%  | 89.0% | 0% | 
+| Decision Trees | 88.1% | 88.46% | 0 |
+| Support Vector Machines | 90.0% | - | 0 |
+
+
+
+
   
 ## 🎖 Future Work
 - Expand the dataset by incorporating an additional 10 years of historical data
