@@ -58,7 +58,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 - Address class imbalance by applying techniques to reduce the effects of unbalanced data distributions
 - Develop a web application to operationalize and showcase the predictive models
 
-## 🧮 Bonus - Classification Models with Removal of Strong Feature Correlation Heatmap Score (0.81)
+## 🧮 Bonus - Classification Models with Removal of Strong Feature
 
 | Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | % Diff | 
 | --- | --- | --- | --- |
