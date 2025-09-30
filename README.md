@@ -39,7 +39,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 5. Classification Modeling 
 7. Results & Analysis
    
-## 🧮 Classification Models
+## 🧮 Classification Model Results
 
 | Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | % Diff | 
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ The ultimate goal is to develop a model capable of achieving accuracy rates appr
 - Address class imbalance by applying techniques to reduce the effects of unbalanced data distributions
 - Develop a web application to operationalize and showcase the predictive models
 
-## 🧮 Bonus - Classification Models with Removal of Strong Feature
+## 🧮 Bonus - Classification Model Results with Removal of Strong Feature
 
 | Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy | % Diff | 
 | --- | --- | --- | --- |
